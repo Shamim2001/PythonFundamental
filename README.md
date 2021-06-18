@@ -1,0 +1,2 @@
+# PythonFundamental
+Python Fundamental practise
